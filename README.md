@@ -79,17 +79,6 @@ Full Stack Developer focused on Back-End development, with hands-on Front-End ex
 
 ---
 
-## 🚀 Featured Projects
-
-* 🌐 Business Websites
-* 🛒 E-commerce Solutions
-* 📊 Administrative Dashboards
-* 🔐 Authentication Systems
-* 📱 Responsive Landing Pages
-* ⚙️ Custom Web Applications
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
