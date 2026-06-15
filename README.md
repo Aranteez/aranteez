@@ -1,13 +1,23 @@
-# Hi 👋, I'm Ian Arantes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+
+<br>
+
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+</div>
+
+<div align="center">
+  
+  <samp>
+      <br>
+      Hi there! I'm <b>Kamilly Medino</b>
+  </samp>
+</div>
 
 🚀 **Full Stack Web Developer | Backend Focused**
 🇧🇷 Brazil
 
-I'm a Full Stack Web Developer passionate about building modern web applications and solving real-world problems through technology.
-
-Graduated in **Internet Informatics** from IFES, I discovered my passion for software development through web technologies and have been working on personal projects and freelance websites since 2024.
-
-My main focus is backend development, but I also have solid frontend experience and can build complete web applications from conception to deployment.
+Full Stack Developer focused on Back-End development, with hands-on Front-End experience gained through freelance web projects. Graduated in Internet Informatics and currently pursuing a Bachelor's degree in Computer Engineering.
 
 ---
 
