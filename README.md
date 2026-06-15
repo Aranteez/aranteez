@@ -7,7 +7,7 @@
 
 🚀 **Full Stack Web Developer | Backend Focused** | 🇧🇷 Brazil
 
-Full Stack Developer focused on Back-End development, with hands-on Front-End experience gained through freelance web projects. Graduated in Internet Informatics and currently attending a Bachelor's degree in Computer Engineering.
+Hi! I'm 20 years old, based in Santos (São Paulo, Brazil). Full Stack Developer focused on Back-End development, with hands-on Front-End experience gained through freelance web projects. Graduated in Internet Informatics and currently attending a Bachelor's degree in Computer Engineering.
 
 ---
 
