@@ -1,14 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Hi!%20I'm%20Ian%20Arantes)"/>
 
 <br>
 
-<div align="center">
-  
-  <samp>
-      <br>
-      Hi there! I'm <b>Kamilly Medino</b>
-  </samp>
-</div>
 
 🚀 **Full Stack Web Developer | Backend Focused**
 🇧🇷 Brazil
