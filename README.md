@@ -14,11 +14,11 @@ Full Stack Developer focused on Back-End development, with hands-on Front-End ex
 ## 🟣 Where to find me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ian-arantes/" target="_blank">
+  <a href="https://www.linkedin.com/in/ian-arante/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6A0DAD" alt="LinkedIn"/>
   </a>
 
-  <a href="https://instagram.com/oreidosites" target="_blank">
+  <a href="https://instagram.com/naosouonai" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6A0DAD" alt="Instagram"/>
   </a>
 
@@ -32,10 +32,9 @@ Full Stack Developer focused on Back-End development, with hands-on Front-End ex
 ## 💻 About Me
 
 * 🎓 Technical Degree in Internet Informatics (IFES)
-* 🌐 Full Stack Web Developer
-* ⚙️ Backend-focused developer
+* * 📚 Studying Cloud Computing at AWS and Computer Engineering (UNIFESP)
+* 🌐 Full Stack Web Developer (Backend-focused developer)
 * 💼 Freelance website developer since 2024
-* 📚 Studying cloud computing at AWS and Computer Engineering (UNIFESP)
 * 🤝 Open to internships, junior opportunities and collaborations
 
 ---
