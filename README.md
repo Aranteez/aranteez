@@ -32,7 +32,7 @@ Full Stack Developer focused on Back-End development, with hands-on Front-End ex
 ## 💻 About Me
 
 * 🎓 Technical Degree in Internet Informatics (IFES)
-* * 📚 Studying Cloud Computing at AWS and Computer Engineering (UNIFESP)
+* 📚 Studying Cloud Computing at AWS and Computer Engineering (UNIFESP)
 * 🌐 Full Stack Web Developer (Backend-focused developer)
 * 💼 Freelance website developer since 2024
 * 🤝 Open to internships, junior opportunities and collaborations
