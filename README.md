@@ -5,10 +5,9 @@
 </p>
 <br><br>
 
-🚀 **Full Stack Web Developer | Backend Focused**
-🇧🇷 Brazil
+🚀 **Full Stack Web Developer | Backend Focused** | 🇧🇷 Brazil
 
-Full Stack Developer focused on Back-End development, with hands-on Front-End experience gained through freelance web projects. Graduated in Internet Informatics and currently pursuing a Bachelor's degree in Computer Engineering.
+Full Stack Developer focused on Back-End development, with hands-on Front-End experience gained through freelance web projects. Graduated in Internet Informatics and currently attending a Bachelor's degree in Computer Engineering.
 
 ---
 
@@ -28,9 +27,6 @@ Full Stack Developer focused on Back-End development, with hands-on Front-End ex
   </a>
 </p>
 
-
-
-
 ---
 
 ## 💻 About Me
@@ -39,8 +35,7 @@ Full Stack Developer focused on Back-End development, with hands-on Front-End ex
 * 🌐 Full Stack Web Developer
 * ⚙️ Backend-focused developer
 * 💼 Freelance website developer since 2024
-* 🚀 Passionate about clean code and scalable solutions
-* 📚 Constantly learning new technologies
+* 📚 Studying cloud computing at AWS and Computer Engineering (UNIFESP)
 * 🤝 Open to internships, junior opportunities and collaborations
 
 ---
