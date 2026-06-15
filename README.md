@@ -1,7 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&color=gradient&text=Hi!%20I%27m%20Ian%20Arantes&textBg=false&fontSize=40&fontColor=542d73&animation=fadeIn&fontAlignY=100&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=140&color=0:6A0DAD,50:8A2BE2,100:4361EE"/>
 
-<br>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8680F7&center=true&vCenter=true&width=600&lines=Hi%2C+There!+I'm+Ian+Arantes;Full+Stack+Developer;Backend+Focused;" alt="Typing SVG" />
+</p>
+<br><br>
 
 🚀 **Full Stack Web Developer | Backend Focused**
 🇧🇷 Brazil
