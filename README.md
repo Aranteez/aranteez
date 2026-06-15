@@ -12,16 +12,24 @@ Full Stack Developer focused on Back-End development, with hands-on Front-End ex
 
 ---
 
-## 🌐 Where to find me
+## 🟣 Where to find me
 
 <p align="left">
-  <a href="https://github.com/Aranteez">
-    <img src="https://img.shields.io/badge/GitHub-Aranteez-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/ian-arantes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6A0DAD" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@oreidosites-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://instagram.com/oreidosites" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6A0DAD" alt="Instagram"/>
+  </a>
+
+  <a href="mailto:ianarantesms@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6A0DAD" alt="Email"/>
   </a>
 </p>
+
+
+
 
 ---
 
