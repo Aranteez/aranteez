@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=140&color=0:6A0DAD,50:8A2BE2,100:4361EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=120&color=0:6A0DAD,50:8A2BE2,100:4361EE"/>
 
-<p align="center">
+<p align="center" style="margin-top: 0; margin-bottom: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=8680F7&center=true&vCenter=true&width=600&lines=Hi%2C+There!+I'm+Ian+Arantes;Full+Stack+Developer;Backend+Focused;" alt="Typing SVG" />
 </p>
 <br><br>
@@ -95,14 +95,8 @@ Full Stack Developer focused on Back-End development, with hands-on Front-End ex
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aranteez&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🚀 Philosophy
-
-> "Great software is built when technology meets real business needs."
-
----
-
 ⭐ Feel free to explore my repositories
 
 🤝 Open to internships, junior opportunities and freelance projects
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A0DAD,50:8A2BE2,100:4361EE"/>
