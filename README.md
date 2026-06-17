@@ -70,8 +70,7 @@ Hi! I'm 20 years old, based in Santos (São Paulo, Brazil). Full Stack Developer
 ### Cloud, DevOps & Tools
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white) (Learning)
-<br>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
 
